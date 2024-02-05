@@ -1,0 +1,6 @@
+selenium
+unidecode
+praw
+python-dotenv
+playsound
+requests

@@ -1,3 +1,5 @@
+![image](https://github.com/G3VV/Twine/assets/46306494/e24dbd8f-ba34-494a-b723-26fe92c8bccd)
+
 # Twine
 
 Twine is a Python-based tool that reads Reddit comments, takes screenshots of comments, converts them to text-to-speech (TTS), and stores the comments as JSON.
